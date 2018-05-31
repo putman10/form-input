@@ -1,0 +1,15 @@
+#form-padding {
+  padding-top: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.receipt {
+  display: none;
+}
+
+.greeting {
+  text-align: center;
+}
